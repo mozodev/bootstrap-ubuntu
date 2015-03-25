@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: Yeongtaek Hong
+  description: Bootstrap for ubuntu server
+  license: MIT License
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - precise
+    - quantal
+    - raring
+    - saucy
+    - trusty
+
+  categories:
+  - system
+
+dependencies: []
